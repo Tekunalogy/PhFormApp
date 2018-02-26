@@ -1,0 +1,14 @@
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\PhFormApp.exe.config
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\PhFormApp.exe
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\PhFormApp.pdb
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\Syroot.Windows.IO.KnownFolders.dll
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\Syroot.Windows.IO.KnownFolders.pdb
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\bin\Debug\Syroot.Windows.IO.KnownFolders.xml
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.PhForm.resources
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.PhProcess.resources
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.Properties.Resources.resources
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.csproj.GenerateResource.Cache
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.exe
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.pdb
+C:\Users\Kunal\Documents\Visual Studio 2017\Projects\PhFormApp\PhFormApp\obj\Debug\PhFormApp.csprojResolveAssemblyReference.cache
